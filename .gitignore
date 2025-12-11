@@ -1,0 +1,65 @@
+# IDE 설정 파일
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# 빌드 디렉토리
+target/
+build/
+out/
+bin/
+
+# 로그 파일
+logs/
+*.log
+
+# 데이터 파일 (대용량)
+*.csv
+*.xml
+*.dat
+
+# 보안 정보
+application.properties
+config.properties
+AirKoreaAPI.txt
+.env
+*.key
+*.pem
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.swp
+*.bak
+*~
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar

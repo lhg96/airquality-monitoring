@@ -1,0 +1,15 @@
+[submodule "air-quality-crawler"]
+	path = air-quality-crawler
+	url = https://github.com/lhg96/ArimAirAirKoreaCrawler.git
+[submodule "air-quality-serial"]
+	path = air-quality-serial
+	url = https://github.com/lhg96/ArimAirSerial.git
+[submodule "air-quality-api"]
+	path = air-quality-api
+	url = https://github.com/lhg96/ArimAirGAE.git
+[submodule "air-quality-client"]
+	path = air-quality-client
+	url = https://github.com/lhg96/ArimAirGAEClient.git
+[submodule "air-quality-calibration"]
+	path = air-quality-calibration
+	url = https://github.com/lhg96/KTR_DUST_Cal.git
